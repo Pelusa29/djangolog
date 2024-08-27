@@ -1,0 +1,2 @@
+# djangolog
+Basic login system
